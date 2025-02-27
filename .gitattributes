@@ -1,0 +1,4 @@
+*.deb filter=lfs diff=lfs merge=lfs -text
+Ubuntu-falcon-sensor_7.21.0-17405_amd64.deb filter=lfs diff=lfs merge=lfs -text
+LinuxDLL.zip filter=lfs diff=lfs merge=lfs -text
+Linux-setup.zip filter=lfs diff=lfs merge=lfs -text
